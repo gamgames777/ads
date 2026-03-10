@@ -1,0 +1,2 @@
+# ads
+google.com, pub-8507175197794401, DIRECT, f08c47fec0942fa0
